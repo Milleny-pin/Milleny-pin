@@ -12,7 +12,7 @@ Minha nave é movida a **Java**, **Python**, **Rust** e muitas ideias futuristas
 
 - 🪐 **Nome:** Milleny Souza  
 - 🌍 **Localização:** Carapicuíba – SP, Brasil  
-- 📡 **Contato:** millenybragh@gmail.com | (11) 95290-8356  
+- 📡 **Contato:** millenybragh@gmail.com  
 - 🛰️ **GitHub:** [Milleny-pin](https://github.com/Milleny-pin)  
 - 🔗 **LinkedIn:** [Milleny Souza Braghine](https://www.linkedin.com/in/millenysouzabraghine/)
 
