@@ -1,4 +1,4 @@
-name: Snake Game
+name: GitHub Snake
 
 on:
   schedule:
@@ -8,18 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Milleny-pin
-          outputs: dist/snake.svg
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate Snake
+      uses: Platane/snk@v3
+      with:
+        github_user_name: Milleny-pin
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        output_path: snake.svg
