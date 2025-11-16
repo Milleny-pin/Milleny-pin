@@ -2,7 +2,7 @@
 🍄✨ BEM-VINDO(A) AO MUNDO 1-1 DA MILLENY! ✨⭐
 </h1>
 <p align="center">
-<!-- GIF de Transição (substituído por um GIF estável) -->
+<!-- GIF de Transição -->
 <img src="https://www.google.com/search?q=https://media.tenor.com/7b58U7c1YyEAAAAC/pixel-art-loop.gif" width="500" alt="GIF de Fundo em Pixel Art">
 
 
@@ -13,13 +13,25 @@
 </p>
 
 <div align="center">
-<!-- Badges de Status (URLs corrigidas) -->
+<!-- Badges de Status -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LEVEL-19%2520ANYS-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dsuper-mario" alt="Level 19 Anos">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/STATUS-BUSCANDO%2520EST%25C3%2581GIO-00FF00%3Fstyle%3Dfor-the-badge" alt="Status Buscando Estágio">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/WORLD-ADS%2520%25C2%25BB%25202024-FFFF00%3Fstyle%3Dfor-the-badge" alt="World ADS 2024">
 </div>
 
-<!-- TÍTULO 1: PLAYER 1 PROFILE (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 1: PLAYER 1 PROFILE (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🎮%20PLAYER%201%20PROFILE-1e90ff?style=for-the-badge&logo=super-mario&logoColor=white&labelColor=1e90ff" alt="Título Player 1 Profile">
@@ -41,7 +53,19 @@
 </tr>
 </table>
 
-<!-- TÍTULO 2: INVENTÁRIO DE POWER-UPS (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 2: INVENTÁRIO DE POWER-UPS (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🔧%20INVENT%C3%81RIO%20DE%20POWER--UPS-ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=ff69b4" alt="Título Inventário de Power-Ups">
@@ -59,7 +83,19 @@
 <img src="https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Badge Linux">
 </div>
 
-<!-- TÍTULO 3: CONQUISTAS DESBLOQUEADAS (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 3: CONQUISTAS DESBLOQUEADAS (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🏆%20CONQUISTAS%20DESBLOQUEADAS-ffd700?style=for-the-badge&logo=github-actions&logoColor=black&labelColor=ffd700" alt="Título Conquistas Desbloqueadas">
@@ -68,12 +104,38 @@
 🎯 <span style="color: #FF6B6B; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-weight: bold;">BOSS 1: ASSISTENTE VIRTUAL "LUNA"</span>
 
 <table> <tr> <td width="80%"> <h4>🤖 IA PERSONALIZADA COM RECONHECIMENTO FACIAL</h4> <ul> <li>🗣️ Sistema de conversação natural</li> <li>👁️ Reconhecimento facial integrado</li> <li>🚀 Integração com Google Gemini</li> <li>⚡ Automação total no Windows</li> <li>📲 Controle de programas e aplicativos</li> </ul> </td> <td width="20%" align="center"> <img src="https://www.google.com/search?q=https://i.imgur.com/k6lP0Wn.gif" width="80" alt="GIF de IA"> </td> </tr> </table>
+
+
+
+
+ <!-- Espaçamento interno da seção -->
+
 🎯 <span style="color: #4ECDC4; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-weight: bold;">BOSS 2: EXCEL INTELLIGENCE</span>
+
 <table> <tr> <td width="80%"> <h4>📊 SISTEMA DE ANÁLISE DE DADOS AUTOMATIZADO</h4> <ul> <li>📈 Estatísticas e métricas automáticas</li> <li>📤 Geração de relatórios inteligentes</li> <li>🐍 Integração Python + Excel</li> <li>🧠 Processamento de dados em tempo real</li> </ul> </td> <td width="20%" align="center"> <img src="https://www.google.com/search?q=https://i.imgur.com/n14M5uU.gif" width="80" alt="GIF de Análise de Dados"> </td> </tr> </table>
+
+
+
+
+ <!-- Espaçamento interno da seção -->
+
 🎯 <span style="color: #FFD700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); font-weight: bold;">BOSS 3: LEITOR INTELIGENTE DE PDF</span>
+
 <table> <tr> <td width="80%"> <h4>📚 PROCESSAMENTO AUTOMÁTICO DE DOCUMENTOS</h4> <ul> <li>🧠 Leitura e interpretação de PDFs</li> <li>✂️ Extração e sumarização de textos</li> <li>🔍 Identificação de informações-chave</li> <li>💡 Análise contextual inteligente</li> </ul> </td> <td width="20%" align="center"> <img src="https://www.google.com/search?q=https://i.imgur.com/j8n6i1r.gif" width="80" alt="GIF de Leitor de PDF"> </td> </tr> </table>
 
-<!-- TÍTULO 4: STATUS DO PERSONAGEM (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 4: STATUS DO PERSONAGEM (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/❤️%20STATUS%20DO%20PERSONAGEM-9b59b6?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=9b59b6" alt="Título Status do Personagem">
@@ -89,6 +151,10 @@
 <img src="https://www.google.com/search?q=https://progress-bar.xyz/55%3Ftitle%3D%25E2%259A%25A1%2520JAVASCRIPT%2520(N%25C3%25ADvel%2520Intermedi%25C3%25A1rio)%26color%3DF9C74F%26width%3D400" alt="Barra de Progresso JavaScript">
 </div>
 
+
+
+ <!-- Espaçamento entre Linguagens e Ferramentas -->
+
 🛠️ <span style="background: linear-gradient(45deg, #FFD700, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">FERRAMENTAS E PLATAFORMAS</span>
 
 <div align="center">
@@ -99,25 +165,49 @@
 <img src="https://www.google.com/search?q=https://progress-bar.xyz/40%3Ftitle%3D%25E2%259A%2593%25EF%25B8%258F%2520KUBERNETES%2520(N%25C3%25ADvel%2520Aprendiz)%26color%3DE76F51%26width%3D400" alt="Barra de Progresso Kubernetes">
 </div>
 
-<!-- TÍTULO 5: LINHA DO TEMPO DA AVENTURA (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 5: LINHA DO TEMPO DA AVENTURA (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🗺️%20LINHA%20DO%20TEMPO%20DA%20AVENTURA-ff9ff3?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=ff9ff3" alt="Título Linha do Tempo da Aventura">
 </div>
 
 <p align="center">
-<!-- GIF de Transição (URL estável) -->
-<img src="https://www.google.com/search?q=https://i.imgur.com/8QzG35Q.gif" width="400" alt="GIF de Transição">
+<!-- Diagrama da Linha do Tempo da segunda imagem, como solicitado (substituindo o GIF anterior) -->
+<img src="https://www.google.com/search?q=https://i.imgur.com/vHqQ9xG.png" width="800" alt="Diagrama da Campanha de Milleny, mostrando marcos de 2024: Início da Jornada em ADS, Primeiro contato com IA, Aprendendo Linux, Projetos Python + Excel, Criação da Luna, Explorando Cloud, Dominando Docker, Iniciando Kubernetes e Evolução Contínua."/>
 </p>
 
-<!-- TÍTULO 6: ITENS ESPECIAIS COLETADOS (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 6: ITENS ESPECIAIS COLETADOS (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🎁%20ITENS%20ESPECIAIS%20COLETADOS-4ECDC4?style=for-the-badge&logo=git&logoColor=white&labelColor=4ECDC4" alt="Título Itens Especiais Coletados">
 </div>
 
 <div align="center">
-<!-- Badges de Itens (URLs corrigidas) -->
+<!-- Badges de Itens -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/%25E2%25AD%2590-CRIATIVIDADE%2520ELEVADA-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dstar%26logoColor%3Dwhite" alt="Badge Criatividade Elevada" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/%25F0%259F%258D%2584-CURIOSIDADE%2520MAXIMA-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Dheart%26logoColor%3Dwhite" alt="Badge Curiosidade Máxima" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/%25F0%259F%2594%25A7-PROJETOS%2520COMPLEXOS-4ECDC4%3Fstyle%3Dfor-the-badge%26logo%3Dtools%26logoColor%3Dwhite" alt="Badge Projetos Complexos" />
@@ -125,7 +215,19 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/%25F0%259F%2592%25AB-APRENDIZADO%2520R%25C3%2581PIDO-FF9FF3%3Fstyle%3Dfor-the-badge%26logo%3Dlightning-bolt%26logoColor%3Dwhite" alt="Badge Aprendizado Rápido" />
 </div>
 
-<!-- TÍTULO 7: CASTELO DOS CONTATOS (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 7: CASTELO DOS CONTATOS (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🏰%20CASTELO%20DOS%20CONTATOS-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="Título Castelo dos Contatos">
@@ -145,7 +247,19 @@
 </a>
 </p>
 
-<!-- TÍTULO 8: TEMA DA FASE (Agora um Badge de Título) -->
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+
+
+<!-- ============================================= -->
+
+<!-- TÍTULO 8: TEMA DA FASE (Badge de Título) -->
 
 <div align="center" style="margin-top: 30px; margin-bottom: 20px;">
 <img src="https://img.shields.io/badge/🎵%20TEMA%20DA%20FASE-FF0000?style=for-the-badge&logo=music-for-programming&logoColor=white&labelColor=FF0000" alt="Título Tema da Fase">
@@ -164,6 +278,16 @@
 "A tecnologia é como o mundo do Mario: cheia de fases, desafios e power-ups!"
 </em> ✨
 </p>
+
+<!-- ============================================= -->
+
+<!-- ESPAÇAMENTO: LINHA DE SEPARAÇÃO -->
+
+
+
+
+
+<!-- ============================================= -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/💖-OBRIGADO%20POR%20JOGAR!-FF69B4?style=for-the-badge&logo=heart&logoColor=white" alt="Badge Obrigado por Jogar" />
@@ -192,7 +316,7 @@ Sempre aprendendo algo novo todos os dias!
 </p>
 
 <div align="center" style="margin-top: 20px;">
-<!-- Barra de Evolução (URL corrigida) -->
+<!-- Barra de Evolução -->
 <img src="https://progress-bar.xyz/85?title=%F0%9F%9A%80%2520EVOLU%C3%87%C3%83O&color=FF0000&width=400" alt="Barra de Evolução">
 </div>
 
